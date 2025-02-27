@@ -6,10 +6,10 @@
 <h2>Why, you ask?</h2>
 Well, my friends, SpaceX's revolutionary reusability has allowed them to offer launch services at a mere $62 million, while their competitors charge upwards of $165 million. 
 <p>
-<strong>  By accurately forecasting these landings, I can estimate launch costs and provide invaluable insights to companies seeking to compete with the trailblazing SpaceX</strong>.
+<strong>  By accurately forecasting these landings, we can the estimate launch costs , develop a correct prediction of the possibility of retreiving an alike falcon 9 first stage of the launch rocket , providing invaluable insights to companies seeking to compete with the trailblazing SpaceX</strong>.
 </p>
 <p>
-    This capstone projectconsolidates the skills I have acquired throughout the IBM Data Science Professional Certificate -  <strong> from data collection and cleaning to machine learning model development and effective communication </strong>strong>. Truly, a well-rounded education that has prepared me to tackle the challenges of the modern world.
+    This capstone project consolidates the skills I have acquired throughout the IBM Data Science Professional Certificate -  <strong> from data collection and cleaning to machine learning model development and effective communication </strong>strong>. Truly, a well-rounded education that has prepared me to tackle the challenges of the modern world.
 </p>
 <p>
     <strong>As I embark on this exciting endeavor, I am filled with a sense of purpose and determination. For in mastering the techniques of data science, I shall unlock the door to a future of boundless possibilities</strong>. This is not just an academic exercise, but a chance to make a tangible impact on the aerospace industry and beyond. I am ready to rise to the challenge and demonstrate the transformative power of data science. The future is ours to shape, and I am eager to lead the way.
